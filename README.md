@@ -305,3 +305,10 @@ Before running the application, ensure you have the following installed:
 ├── main.py                # Main entry point of the application
 ├── README.md              # This file
 └── ... (other files)
+
+
+
+
+
+AUTHOR
+KARTHIK REDDY
