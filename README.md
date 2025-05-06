@@ -305,10 +305,20 @@ Before running the application, ensure you have the following installed:
 ├── main.py                # Main entry point of the application
 ├── README.md              # This file
 └── ... (other files)
+## Future Work
 
+* Train the models on a larger, real-world dataset for improved accuracy and generalization.
+* Implement user authentication and data storage.
+* Add more sophisticated features and recommendations.
+* Explore other machine learning models for potential performance gains.
+* Integrate with existing learning management systems (LMS).
+* Provide more detailed feedback and explanations for the predictions.
+* Develop visualizations of student performance trends.
 
+## Contributing
 
+Contributions to this project are welcome. Please feel free to submit pull requests or open issues for any bugs or feature requests.
 
+## AUTHOR
 
-AUTHOR
-KARTHIK REDDY
+Karthik reddy 
